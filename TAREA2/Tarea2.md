@@ -4,6 +4,7 @@ Aquí se hará las configuraciones sencillas de las maquinas
 para que se puedan ver entre ella
 
 Red:
+![1](https://github.com/HerreraAngel/RSI/blob/main/TAREA2/IMGS/1.png)
 
 PFsense:
 
