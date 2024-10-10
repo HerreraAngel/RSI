@@ -25,11 +25,12 @@ Cliente Windows:
 
 
 **Configuración del Rango Del server Debian**
-
+Aquí tendremos que ir al documento del rango del server de Debian
 ![6](https://github.com/HerreraAngel/RSI/blob/main/TAREA2/IMGS/6.png)
 
+Arriba pondremos la configuración del rango y abajo aremos la reserva del cliente de Linux
 
-
+Este tendrá la ip 60
 
 **Comprobación**
 
