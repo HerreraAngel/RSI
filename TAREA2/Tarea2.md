@@ -32,9 +32,11 @@ Arriba pondremos la configuración del rango y abajo aremos la reserva del clien
 
 Este tendrá la ip 60
 
-***Comprobación***
+***Comprobación de que el servidor halla dado las IP's correctas***
 
+![7](https://github.com/HerreraAngel/RSI/blob/main/TAREA2/IMGS/7.png)
 
+![8](https://github.com/HerreraAngel/RSI/blob/main/TAREA2/IMGS/8.png)
 
+![9](https://github.com/HerreraAngel/RSI/blob/main/TAREA2/IMGS/9.png)
 
-*Ver ip dadas por el Debian server*
