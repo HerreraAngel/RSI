@@ -1,7 +1,7 @@
 **Configuración de la Red y las maquinas**
 
 Aquí se hará las configuraciones sencillas de las maquinas 
-para que se puedan ver entre ella
+para que se puedan ver entre ella (Configuracion de las tarjetas red)
 
 Red:
 
