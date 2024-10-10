@@ -1,4 +1,4 @@
-*Configuración de la Red y las maquinas*
+***Configuración de la Red y las maquinas***
 
 Aquí se hará las configuraciones sencillas de las maquinas 
 para que se puedan ver entre ella (Configuracion de las tarjetas red)
@@ -24,7 +24,7 @@ Cliente Windows:
 ![5](https://github.com/HerreraAngel/RSI/blob/main/TAREA2/IMGS/5.png)
 
 
-*Configuración del Rango Del server Debian*
+***Configuración del Rango Del server Debian***
 Aquí tendremos que ir al documento del rango del server de Debian
 ![6](https://github.com/HerreraAngel/RSI/blob/main/TAREA2/IMGS/6.png)
 
@@ -32,7 +32,7 @@ Arriba pondremos la configuración del rango y abajo aremos la reserva del clien
 
 Este tendrá la ip 60
 
-*Comprobación*
+***Comprobación***
 
 
 
