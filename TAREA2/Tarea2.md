@@ -36,7 +36,7 @@ Cliente Windows:
 ![5](https://github.com/HerreraAngel/RSI/blob/main/TAREA2/IMGS/5.png)
 
 
-*** Configuración del Rango Del server Debian***
+## Configuración del Rango Del server Debian
 Aquí tendremos que ir al documento del rango del server de Debian
 y lo configuraremo como tal 
 ![6](https://github.com/HerreraAngel/RSI/blob/main/TAREA2/IMGS/6.png)
