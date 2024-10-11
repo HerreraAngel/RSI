@@ -1,7 +1,7 @@
 
 # Tarea de Configuracion de Rango de servidores en Debian
 
-##  Configuración del servidor DHCP. 
+##  Instalacion del servidor DHCP. 
 Empezaremos entrando en nuestro Debian Server e instalaremos nuestor Servidor ssh 
 para esto aremos nuestro apt-update para conseguir la informacion de los paquetes 
 ![Imagen realizada masTarde.1](https://github.com/HerreraAngel/RSI/blob/main/TAREA2/IMGS/SIR%201%20UPDATE.PNG)
@@ -12,15 +12,8 @@ Tras esto instalaremos el paquete y la configuracion de este se hara mas tarde
 
 
 
-
-
-
-
-## ***Configuración de la Red y las maquinas***
-
-Aquí se hará las configuraciones sencillas de las maquinas 
-para que se puedan ver entre ella (Configuracion de las tarjetas red)
-
+## Configuracion de las Tarjetas red 
+Aquí procedo a hacer la configuracion de las tarjetas red para que este de acuerdo con el esquema 
 Red:
 
 ![1](https://github.com/HerreraAngel/RSI/blob/main/TAREA2/IMGS/1.png)
