@@ -53,6 +53,6 @@ Este tendrá la ip 60
 ![8](https://github.com/HerreraAngel/RSI/blob/main/TAREA2/IMGS/8.png)
 
 ## IP que estan siendo utilizadas al momento
-Aqui podemos ver las ips dadas a otros sistemas al momento y cuando estas han sido pedidas
+Aqui podemos ver las ips dadas a otros sistemas al momento 
 ![9](https://github.com/HerreraAngel/RSI/blob/main/TAREA2/IMGS/9.png)
 
