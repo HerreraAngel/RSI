@@ -54,5 +54,6 @@ Este tendrá la ip 60
 
 ## IP que estan siendo utilizadas al momento
 Aqui podemos ver las ips dadas a otros sistemas al momento 
+
 ![9](https://github.com/HerreraAngel/RSI/blob/main/TAREA2/IMGS/9.png)
 
