@@ -4,6 +4,7 @@
 ##  Instalacion del servidor DHCP. 
 Empezaremos entrando en nuestro Debian Server e instalaremos nuestor Servidor ssh 
 para esto aremos nuestro apt-update para conseguir la informacion de los paquetes 
+
 ![Imagen realizada masTarde.1](https://github.com/HerreraAngel/RSI/blob/main/TAREA2/IMGS/SIR%201%20UPDATE.PNG)
 
 Tras esto instalaremos el paquete y la configuracion de este se hara mas tarde
